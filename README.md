@@ -50,7 +50,7 @@ A property management and housing discovery platform designed to connect landlor
 ### GetConfident
 An AI-powered speaking practice application.
 
-### PalmsBeautyStore
+### RachelleBeautyStore
 A salon booking and e-commerce platform.
 
 ### APC Lagos
